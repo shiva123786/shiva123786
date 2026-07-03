@@ -75,50 +75,71 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Technical Skills
 
-### Languages
-
+### 👨‍💻 Programming Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
 </p>
 
-### Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tensorflow,pytorch"/>
-
-</p>
-
-### Data Science
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Science
-- Data Analytics
-- Business Intelligence
-- Power BI
-- Power Query
-- DAX
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
+**Languages:** `Python` • `Java` • `JavaScript` • `SQL` • `HTML5` • `CSS3`
 
 ---
 
+### 📚 Computer Science Fundamentals
+
+🧩 **Data Structures & Algorithms** • 🏗️ **Object-Oriented Programming (OOP)** • 💻 **Operating Systems** • 🌐 **Computer Networks** • 🗄️ **Database Management Systems**
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Databases:** `MySQL` • `MongoDB` • `SQL` • `NoSQL`
+
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+**Technologies:** `React` • `React Native` • `Node.js` • `Express.js` • `REST APIs`
+
+---
+
+### 🤖 Artificial Intelligence & Data Science
+
+🧠 **Artificial Intelligence** • 🤖 **Machine Learning** • 🔥 **Deep Learning** • 👁️ **Computer Vision** • 📊 **Data Science** • 📈 **Data Analytics** • 💼 **Business Intelligence**
+
+---
+
+### 📊 Analytics & Visualization
+
+📊 **Power BI** • 📑 **Power Query** • 📐 **DAX** • 🐼 **Pandas** • 🔢 **NumPy** • 📉 **Matplotlib** • ⚙️ **Scikit-learn**
+
+---
+
+### ☁️ Cloud & Security
+
+☁️ **Cloud Security** • 🔐 **Zero Trust Architecture** • 🔑 **Authentication** • 🛡️ **Risk Analysis**
+
+---
+
+### 🛠️ Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Tools:** `Git` • `GitHub` • `VS Code` • `Postman`
+
+---
+
+### ⚡ Soft Skills
+
+🧩 Problem Solving • 🧠 Analytical Thinking • 🤝 Team Collaboration • 💬 Communication • 📚 Continuous Learning
 # 🏆 Certifications
 
 🏅 Deloitte Data Analytics
