@@ -54,27 +54,6 @@ B.E. Artificial Intelligence & Data Science
 ⭐ CGPA **8.61 / 10**
 
 ---
-
-# 💼 Experience
-### 🤖 AI Developer Intern — Viswam.AI
-### 📊 Data Science & Analytics Intern — Future Interns
-### 💻 Web Developer Intern — The Developer Arena
----
-
-# 🚀 Featured Projects
-
-## ☁️ CloudSentinel (Ongoing)
-
-Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
-
-- AI Powered Risk Analysis
-- Continuous Authentication
-- Dynamic User Verification
-- Hidden Encrypted Replica
-- Real-Time Alerts
-
----
-
 ## 💻 Technical Skills
 
 ### 👨‍💻 Programming Languages
@@ -141,6 +120,27 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 ### ⚡ Soft Skills
 
 🧩 Problem Solving • 🧠 Analytical Thinking • 🤝 Team Collaboration • 💬 Communication • 📚 Continuous Learning
+
+# 💼 Experience
+### 🤖 AI Developer Intern — Viswam.AI
+### 📊 Data Science & Analytics Intern — Future Interns
+### 💻 Web Developer Intern — The Developer Arena
+---
+
+# 🚀 Featured Projects
+
+## ☁️ CloudSentinel (Ongoing)
+
+Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
+
+- AI Powered Risk Analysis
+- Continuous Authentication
+- Dynamic User Verification
+- Hidden Encrypted Replica
+- Real-Time Alerts
+
+---
+
 # 🏆 Certifications
 
 🏅 Deloitte Data Analytics
@@ -162,7 +162,7 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 [![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
 ---
 
-# 💡 Quote
+# 💡 
 
 > **"I believe every problem has a solution waiting to be discovered through technology, data, and continuous learning."**
 
