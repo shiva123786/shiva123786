@@ -135,10 +135,9 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva123786&theme=tokyo-night)](https://github.com/shiva123786)
-
+[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
 ---
 
 # 💡 Quote
