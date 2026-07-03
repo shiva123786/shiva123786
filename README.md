@@ -171,6 +171,7 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 ⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, and build something amazing together.*
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kethavath-shiva-a6a0662b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakethavath100@gmail.com) 
 
