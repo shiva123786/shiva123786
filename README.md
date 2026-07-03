@@ -88,7 +88,8 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 ### 📚 Computer Science Fundamentals
 
-🧩 **Data Structures & Algorithms** • 🏗️ **Object-Oriented Programming (OOP)** • 💻 **Operating Systems** • 🌐 **Computer Networks** • 🗄️ **Database Management Systems**
+🧩 **Data Structures & Algorithms** • 🏗️ **Object-Oriented Programming (OOP)** • 💻 **Operating Systems** • 🌐 **Computer Networks** • 
+🗄️ **Database Management Systems**
 
 ---
 
