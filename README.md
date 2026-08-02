@@ -33,7 +33,7 @@ Artificial Intelligence & Data Science Student | AI Developer | Data Analytics |
 
 🎓 B.E. Artificial Intelligence & Data Science Student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
-💡 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning, Data Science, and Business Intelligence.
+💡 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning, Data Science, and Business Intelligence, Business Development.
 
 📊 I enjoy transforming raw data into meaningful insights through analytics, visualization, and AI-driven applications.
 
