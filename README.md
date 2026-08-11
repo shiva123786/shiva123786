@@ -92,13 +92,13 @@ B.E. Artificial Intelligence & Data Science
 
 ### 🤖 Artificial Intelligence & Data Science
 
-🧠 **Artificial Intelligence** • 🤖 **Machine Learning** • 🔥 **Deep Learning** • 👁️ **Computer Vision** • 📊 **Data Science** • 📈 **Data Analytics** • 💼 **Business Intelligence**
+🧠 **Artificial Intelligence** • 🤖 **Machine Learning** • 🔥 **Deep Learning** • 👁️ **Computer Vision** • 📊 **Data Science** • 📈 **Data Analytics** • 💼 **Business Intelligence** •**Business Development** 
 
 ---
 
 ### 📊 Analytics & Visualization
 
-📊 **Power BI** • 📑 **Power Query** • 📐 **DAX** • 🐼 **Pandas** • 🔢 **NumPy** • 📉 **Matplotlib** • ⚙️ **Scikit-learn**
+📊 **Power BI** • 📑 **Power Query** • 📐 **DAX** • 🐼 **Pandas** • 🔢 **NumPy** • 📉 **Matplotlib** • ⚙️ **Scikit-learn** •**YOLO** 
 
 ---
 
