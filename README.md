@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kethavath Shiva</h1>
 
 <h3 align="center">
-Artificial Intelligence & Data Science Student | AI Developer | Data Analytics | Business Intelligence | Full Stack Developer
+Artificial Intelligence & Data Science Student | AI Developer | Data Analytics | Business Intelligence | Full-Stack Developer
 </h3>
 
 <p align="center">
