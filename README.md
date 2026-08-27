@@ -153,7 +153,7 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 🏅 Salesforce Agentforce Specialist
 
-🏅 Adobe India Hackathon 2025 – Round 1 Participant
+🏅 Adobe India Hackathon 2025 – Round 1 Participant 
 
 ---
 
