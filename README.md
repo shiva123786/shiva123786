@@ -159,7 +159,14 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 ## 📈 Contribution Graph
 
-[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
+<!--
+  NOTE: github-readme-activity-graph.vercel.app is a shared community
+  instance and currently returns HTTP 402 (Vercel usage/billing limit
+  hit). Using a working mirror below as a drop-in fix. For a permanent
+  fix, fork https://github.com/Ashutosh00710/github-readme-activity-graph
+  and deploy your own free Vercel instance, then swap the domain below.
+-->
+[![Shiva's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
 ---
 
 # 💡 
@@ -189,5 +196,3 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 [![](https://komarev.com/ghpvc/?username=shiva123786&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
