@@ -1,4 +1,36 @@
-<h1 align="center">Hi 👋, I'm Kethavath Shiva</h1> <h3 align="center"> Artificial Intelligence & Data Science Student | AI Developer | Data Analytics | Business Intelligence | Full-Stack Developer </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva123786&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> </p> <p align="center"> <a href="https://github.com/shiva123786"> <img src="https://img.shields.io/github/followers/shiva123786?logo=github&style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/kethavath-shiva-a6a0662b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:shivakethavath100@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/u/SHIVA_KETHAVATH/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/> </a> <a href="https://shivaportfolio-eight.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1B1F3B&height=180&section=header&text=Hi%20👋%2C%20I'm%20Kethavath%20Shiva&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;AI+Developer+%7C+Data+Analytics;Business+Intelligence+%7C+Full-Stack+Dev"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shiva123786&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/shiva123786">
+<img src="https://img.shields.io/github/followers/shiva123786?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kethavath-shiva-a6a0662b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shivakethavath100@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/SHIVA_KETHAVATH/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://shivaportfolio-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 # 💫 About Me
@@ -139,6 +171,7 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
   and deploy your own free Vercel instance, then swap the domain below.
 -->
 [![Shiva's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
+
 ---
 
 # 💡 
@@ -157,9 +190,17 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shiva123786&theme=dark&hide_border=false&include_all_commits=true)<br/>
-![](https://streak-stats.demolab.com/?user=shiva123786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shiva123786&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=shiva123786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--
+  NOTE: streak-stats.demolab.com is Heroku-hosted and is currently
+  throwing a Heroku "Application error" (the underlying dyno has
+  crashed) — this is a known, recurring issue with this specific
+  service. Swapped to github-readme-streak-stats-eight.vercel.app,
+  the community-confirmed working Vercel mirror with the same params.
+-->
+![](https://github-readme-streak-stats-eight.vercel.app?user=shiva123786&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shiva123786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=shiva123786&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -167,3 +208,5 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 [![](https://komarev.com/ghpvc/?username=shiva123786&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F3B,100:0E75B6&height=120&section=footer"/>
