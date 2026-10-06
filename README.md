@@ -164,13 +164,15 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 ## 📈 Contribution Graph
 
 <!--
-  NOTE: github-readme-activity-graph.vercel.app is a shared community
-  instance and currently returns HTTP 402 (Vercel usage/billing limit
-  hit). Using a working mirror below as a drop-in fix. For a permanent
-  fix, fork https://github.com/Ashutosh00710/github-readme-activity-graph
-  and deploy your own free Vercel instance, then swap the domain below.
+  LIVE 3D ISOMETRIC VERSION — still just one line, no second file,
+  nothing to set up. This is a hosted service (not a repo Action) that
+  re-queries GitHub's API and redraws the 3D bars fresh on every page
+  load, with a glow pulse on today's bar — so it visibly changes the
+  moment your real contributions go up or down.
 -->
-[![Shiva's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
+<p align="center">
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=shiva123786&theme=neon&stats=true" alt="Shiva's live 3D GitHub contribution graph" width="100%"/>
+</p>
 
 ---
 
